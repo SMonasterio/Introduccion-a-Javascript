@@ -9,7 +9,7 @@ const pi=3.14
 // Tipos de datos
 
 //String
-let cliente ="Fabrizio"
+let cliente ="Sofia"
 
 //Number
 let numero1 =34
